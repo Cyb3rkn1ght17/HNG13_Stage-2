@@ -271,8 +271,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Connect with the author of this project:
 
 -   **Paul Yusuf**
-    -   LinkedIn: [YourLinkedInUsername](https://www.linkedin.com/in/paul-yusuf-8b5a97209/)
-    -   Twitter: [@YourTwitterHandle](https://x.com/GentlePaul17/)
+    -   LinkedIn: (https://www.linkedin.com/in/paul-yusuf-8b5a97209/)
+    -   Twitter: (https://x.com/GentlePaul17/)
 
 ---
 
